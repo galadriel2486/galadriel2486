@@ -1,4 +1,4 @@
-# **Hello! My name's Elissa Gabriela 🪴**
+# **Hello! 🪴**
 I'm a brazilian data analyst passionate about numbers, information... anything that can bring me some insights. Although being in the fourth semester of my bachelor's degree in Computer Engineering, I usually say that what I learned about data was in my personal and professional incursions. I am very self-taught.
 
 If you want to reach out, follow me on:
