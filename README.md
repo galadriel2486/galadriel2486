@@ -10,8 +10,8 @@ If you want to reach out, follow me on:
 
 
 ## **Cool personal projects:**
-- [Fraud detection analysis (2022)](https://github.com/galadriel2486/fraud_detection_online_transactions/blob/main/DataGirlsOnboardingProject.ipynb)
-- [Best sellers books from 2020 analysis (2021)](https://github.com/galadriel2486/top_books_project/blob/main/Livros_projeto.ipynb)
+- [Fraud detection analysis from a Kaggle dataset(2022)](https://github.com/galadriel2486/fraud_detection_online_transactions/blob/main/DataGirlsOnboardingProject.ipynb)
+- [Best sellers books from 2020 analysis from a webscraped data (2021)](https://github.com/galadriel2486/top_books_project/blob/main/Livros_projeto.ipynb)
 - [Little game entitled "Letroca" created in Python (2021)](https://github.com/galadriel2486/letroca)
 
 ## **Competencies:**
