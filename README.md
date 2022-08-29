@@ -25,4 +25,4 @@ If you want to reach out, follow me on:
 ## **Fun facts:**
 - I have a Master degree in Philosophy;
 - I would like to live in a museum because I love contemporary art and visiting exhibitions;
-- I have a dream of traveling to India.
+- I have a dream to traveling to India.
